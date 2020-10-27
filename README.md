@@ -1,5 +1,5 @@
 # vue-calculator
-
+![](/src/assets/calculator-vue.png)
 ## Project setup
 ```
 npm install
