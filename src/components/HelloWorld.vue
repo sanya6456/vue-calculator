@@ -84,7 +84,7 @@ export default {
       setPrevious()
     }
     function minus(){
-      state.operator=(a,b)=>a-b;
+      state.operator=(a,b)=>b-a;
       setPrevious()
     }
     function divide(){
