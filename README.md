@@ -1,3 +1,6 @@
+Check out this project live:
+https://vue-calculator-bs.netlify.app/
+
 # vue-calculator
 ![](/src/assets/calculator-vue.png)
 ## Project setup
